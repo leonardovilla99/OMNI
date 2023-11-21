@@ -1,8 +1,8 @@
-#![image](https://github.com/leonardovilla99/OMNI/assets/47520664/c9289317-4ee2-4b95-97f4-8f89ba6a5e61)
-
- OMNI: Simplify Your Connections
+#OMNI: Simplify Your Connections
 
 **OMNI** is a versatile app designed for streamlining your digital connections. With a single NFC tap, a quick QR code scan, or by sharing a convenient link, **OMNI** empowers you to effortlessly share all your profile links. Whether you're a professional, content creator, or just someone seeking a convenient way to connect, **OMNI** has you covered.
+
+![image](https://github.com/leonardovilla99/OMNI/assets/47520664/c9289317-4ee2-4b95-97f4-8f89ba6a5e61)
 
 ## Features
 
